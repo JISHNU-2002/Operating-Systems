@@ -1,4 +1,4 @@
-# s4-OS-LAB-ktu
+# OPERATING SYSTEMS
 
 ## Banker's Algorithm
 
